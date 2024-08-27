@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=toolpresetholder
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Tool Presets Holder
+Comment=a tool that hold presets
